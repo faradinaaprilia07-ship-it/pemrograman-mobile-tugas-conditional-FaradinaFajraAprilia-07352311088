@@ -1,4 +1,4 @@
-NAMA : FARADINA FAJRA APTILIA
+NAMA : FARADINA FAJRA APRILIA
 NPM : 07352311088
 
 DESKRIPSI PROGRAM: Program ini merupakan aplikasi sederhana untuk menghitung slip gaji mingguan karyawan. Data karyawan disimpan dalam bentuk list of map, yang berisi informasi seperti nama, jumlah jam kerja per minggu, upah per jam, dan status pajak. Program akan menghitung gaji kotor berdasarkan jam kerja dan upah per jam. Menentukan pajak berdasarkan status karyawan (true = 10%, false = 5%). Menghitung gaji bersih setelah dipotong pajak. Menampilkan slip gaji untuk setiap karyawan dengan format yang rapi.
